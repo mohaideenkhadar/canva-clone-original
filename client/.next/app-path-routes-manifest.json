@@ -1,0 +1,8 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/editor/[slug]/page": "/editor/[slug]",
+  "/login/page": "/login",
+  "/page": "/"
+}
